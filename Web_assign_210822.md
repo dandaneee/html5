@@ -129,7 +129,7 @@ text-align: center;
 >
 > 3.  **테이블 모으기 : **
 
-    ![image-20210822175825220].(https://user-images.githubusercontent.com/88419443/130445853-527d56aa-0a08-4635-bf56-d47c0fd1331f.png)
+  ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445853-527d56aa-0a08-4635-bf56-d47c0fd1331f.png)
 
 >    처음엔 이런식으로 빈칸이 생겨 margin을 사용하는줄 알았으나, 
 >
@@ -157,7 +157,7 @@ text-align: center;
 >
 >     내부 tr,td 에 class지정, <div>로 구간 묶어서 border 위치별로 thick 지정을 했는데 죽어도 안바뀜
 
-    ![image-20210822203401774](https://user-images.githubusercontent.com/88419443/130445858-c8e135aa-6c98-4d1d-94fc-7410dfa60c61.png)
+   ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445858-c8e135aa-6c98-4d1d-94fc-7410dfa60c61.png)
 
 >     tr,td{ border: 3px solid pink; } 스타일을 사용하니 모든 thtd의 테두리가 굵게 표시가 됐다.
 
