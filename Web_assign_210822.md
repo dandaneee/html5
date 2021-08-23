@@ -151,7 +151,7 @@ text-align: center;
 >
 > 6.   **테이블 내부 선 굵기 문제 : **
 
-     ![image-20210822203126041].(https://user-images.githubusercontent.com/88419443/130445853-527d56aa-0a08-4635-bf56-d47c0fd1331f.png)
+  ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445853-527d56aa-0a08-4635-bf56-d47c0fd1331f.png)
  
 >     이런식으로 외부 테두리만 굵게 표시되고 나머지 내부 cell의 칸들은 얇은 선으로 표시됨,
 >
@@ -161,11 +161,11 @@ text-align: center;
 
 >     tr,td{ border: 3px solid pink; } 스타일을 사용하니 모든 thtd의 테두리가 굵게 표시가 됐다.
 
-    ![image-20210822204524296](https://user-images.githubusercontent.com/88419443/130445860-34ed711a-2ad8-43cd-b124-a85d879c38a7.png)
+   ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445860-34ed711a-2ad8-43cd-b124-a85d879c38a7.png)
 
 >     td{border: 3px solid pink;}  를 사용해도 동일,
 
-    ![image-20210822204631197](https://user-images.githubusercontent.com/88419443/130445865-06cec989-e8f1-4df8-b3e0-981ffb5179fe.png)
+   ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445865-06cec989-e8f1-4df8-b3e0-981ffb5179fe.png)
 
 >     tr{border: 3px solid pink;}  를 사용했을땐 가로만 굵은 그래프가 됐다.
 >
@@ -190,15 +190,15 @@ text-align: center;
 >       ![image-20210822205602083](https://user-images.githubusercontent.com/88419443/130445868-5ed2639e-2191-40c7-a06e-92a127b9c287.png)
 >       
 >
->     ![image-20210822205620286](https://user-images.githubusercontent.com/88419443/130445869-62e1d2bb-6fdd-4d74-9541-142b2f4daf79.png)
+>  ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445869-62e1d2bb-6fdd-4d74-9541-142b2f4daf79.png)
 >
 >     - span은 특정부분을 inline형태로 묶는다. 내용 정도만.
 >
->     ![image-20210822205822043](https://user-images.githubusercontent.com/88419443/130445873-9739a428-461d-46ad-b36d-4274254a04af.png)
+>   ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445873-9739a428-461d-46ad-b36d-4274254a04af.png)
 >
->     ![image-20210822205839221](https://user-images.githubusercontent.com/88419443/130445874-b0a2262e-44b0-4759-bcb6-9304b8f60612.png)
+>  ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445874-b0a2262e-44b0-4759-bcb6-9304b8f60612.png)
 >
->     ![image-20210822205923595](https://user-images.githubusercontent.com/88419443/130445878-5930770a-3043-4f1d-b7aa-e79a2ca2d449.png)
+>  ![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445878-5930770a-3043-4f1d-b7aa-e79a2ca2d449.png)
 >
 >     - <p>는 <div>나 <span>에서 내용을 작성할 경우 단락을 구분한다.
 
