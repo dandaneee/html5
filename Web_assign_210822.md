@@ -104,8 +104,7 @@ text-align: center;
 
 ### 내가 한것
 
-![image-20210822173437994](C:/Users/Robot/Documents/md_images/image-20210822173437994.png)
-
+![image-20210822173437994](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822173437994.png)
 
 
 ### 까다로웠던 내용:
@@ -130,7 +129,7 @@ text-align: center;
 >
 > 3.  **테이블 모으기 : **
 >
->    ![image-20210822175825220](C:/Users/Robot/Documents/md_images/image-20210822175825220.png)
+>    ![image-20210822175825220](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822175825220.png)
 >
 >    처음엔 이런식으로 빈칸이 생겨 margin을 사용하는줄 알았으나, 
 >
@@ -152,21 +151,21 @@ text-align: center;
 >
 > 6.   **테이블 내부 선 굵기 문제 : **
 >
->     ![image-20210822203126041](C:/Users/Robot/Documents/md_images/image-20210822203126041.png)
+>     ![image-20210822203126041](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822203126041.png)
 >
 >     이런식으로 외부 테두리만 굵게 표시되고 나머지 내부 cell의 칸들은 얇은 선으로 표시됨,
 >
 >     내부 tr,td 에 class지정, <div>로 구간 묶어서 border 위치별로 thick 지정을 했는데 죽어도 안바뀜
 >
->     -->    									 ![image-20210822203401774](C:/Users/Robot/Documents/md_images/image-20210822203401774.png		)	
+>     -->    									 ![image-20210822203401774](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822203401774.png)
 >
 >     tr,td{ border: 3px solid pink; } 스타일을 사용하니 모든 thtd의 테두리가 굵게 표시가 됐다.
 >
->     ​    											![image-20210822204524296](C:/Users/Robot/Documents/md_images/image-20210822204524296.png) 
+>     ​    											![image-20210822204524296](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822204524296.png)
 >
 >     td{border: 3px solid pink;}  를 사용해도 동일,
 >
->     ​												![image-20210822204631197](C:/Users/Robot/Documents/md_images/image-20210822204631197.png)	
+>     ​												![image-20210822204631197](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822204631197.png)
 >
 >     tr{border: 3px solid pink;}  를 사용했을땐 가로만 굵은 그래프가 됐다.
 >
