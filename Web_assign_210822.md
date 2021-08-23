@@ -129,7 +129,7 @@ text-align: center;
 >
 > 3.  **테이블 모으기 : **
 
-    ![image-20210822175825220](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822175825220.png)
+    ![image-20210822175825220].(https://user-images.githubusercontent.com/88419443/130445853-527d56aa-0a08-4635-bf56-d47c0fd1331f.png)
 
 >    처음엔 이런식으로 빈칸이 생겨 margin을 사용하는줄 알았으나, 
 >
@@ -151,7 +151,7 @@ text-align: center;
 >
 > 6.   **테이블 내부 선 굵기 문제 : **
 
-     ![image-20210822203126041](https://user-images.githubusercontent.com/88419443/130445853-527d56aa-0a08-4635-bf56-d47c0fd1331f.png)
+     ![image-20210822203126041].(https://user-images.githubusercontent.com/88419443/130445853-527d56aa-0a08-4635-bf56-d47c0fd1331f.png)
  
 >     이런식으로 외부 테두리만 굵게 표시되고 나머지 내부 cell의 칸들은 얇은 선으로 표시됨,
 >
