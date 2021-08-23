@@ -98,13 +98,13 @@ text-align: center;
 
 ### 과제 
 
-![image-20210822173313425](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822173313425.png)
+![image-20210822173313425](https://user-images.githubusercontent.com/88419443/130445882-f6fb6852-05be-44fb-9e24-a8e07eef8e29.png)
 
 
 
 ### 내가 한것
 
-![image-20210822173437994](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822173437994.png)
+![image-20210822173437994](https://user-images.githubusercontent.com/88419443/130445884-fb1d4913-5b3d-44c4-a8ea-e8f22faad36b.png)
 
 
 ### 까다로웠던 내용:
@@ -151,21 +151,21 @@ text-align: center;
 >
 > 6.   **테이블 내부 선 굵기 문제 : **
 
-     ![image-20210822203126041](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822203126041.png)
-
+     ![image-20210822203126041](https://user-images.githubusercontent.com/88419443/130445853-527d56aa-0a08-4635-bf56-d47c0fd1331f.png)
+ 
 >     이런식으로 외부 테두리만 굵게 표시되고 나머지 내부 cell의 칸들은 얇은 선으로 표시됨,
 >
 >     내부 tr,td 에 class지정, <div>로 구간 묶어서 border 위치별로 thick 지정을 했는데 죽어도 안바뀜
 
-    ![image-20210822203401774](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822203401774.png)
+    ![image-20210822203401774](https://user-images.githubusercontent.com/88419443/130445858-c8e135aa-6c98-4d1d-94fc-7410dfa60c61.png)
 
 >     tr,td{ border: 3px solid pink; } 스타일을 사용하니 모든 thtd의 테두리가 굵게 표시가 됐다.
 
-    ![image-20210822204524296](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822204524296.png)
+    ![image-20210822204524296](https://user-images.githubusercontent.com/88419443/130445860-34ed711a-2ad8-43cd-b124-a85d879c38a7.png)
 
 >     td{border: 3px solid pink;}  를 사용해도 동일,
 
-    ![image-20210822204631197](https://raw.githubusercontent.com/dandaneee/html5/7d71f522f787622850a001e75c32d13564c31d28/image-20210822204631197.png)
+    ![image-20210822204631197](https://user-images.githubusercontent.com/88419443/130445865-06cec989-e8f1-4df8-b3e0-981ffb5179fe.png)
 
 >     tr{border: 3px solid pink;}  를 사용했을땐 가로만 굵은 그래프가 됐다.
 >
@@ -187,19 +187,18 @@ text-align: center;
 >
 >     - div는 큰 박스형태의 구역으로 묶이는것, 레이아웃 분할(division)
 >
->       ![image-20210822205602083](C:/Users/Robot/Documents/md_images/image-20210822205602083.png)
->
+>       ![image-20210822205602083](https://user-images.githubusercontent.com/88419443/130445868-5ed2639e-2191-40c7-a06e-92a127b9c287.png)
 >       
 >
->     ![image-20210822205620286](C:/Users/Robot/Documents/md_images/image-20210822205620286.png)
+>     ![image-20210822205620286](https://user-images.githubusercontent.com/88419443/130445869-62e1d2bb-6fdd-4d74-9541-142b2f4daf79.png)
 >
 >     - span은 특정부분을 inline형태로 묶는다. 내용 정도만.
 >
->     ![image-20210822205822043](C:/Users/Robot/Documents/md_images/image-20210822205822043.png)
+>     ![image-20210822205822043](https://user-images.githubusercontent.com/88419443/130445873-9739a428-461d-46ad-b36d-4274254a04af.png)
 >
->     ![image-20210822205839221](C:/Users/Robot/Documents/md_images/image-20210822205839221.png)
+>     ![image-20210822205839221](https://user-images.githubusercontent.com/88419443/130445874-b0a2262e-44b0-4759-bcb6-9304b8f60612.png)
 >
->     ![image-20210822205923595](C:/Users/Robot/Documents/md_images/image-20210822205923595.png)
+>     ![image-20210822205923595](https://user-images.githubusercontent.com/88419443/130445878-5930770a-3043-4f1d-b7aa-e79a2ca2d449.png)
 >
 >     - <p>는 <div>나 <span>에서 내용을 작성할 경우 단락을 구분한다.
 
