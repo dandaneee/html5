@@ -69,11 +69,11 @@ document.write( v3 + "<br>");
 
 
 
-![variabletest](../../../../../Documents/md_images/variabletest.JPG)
+![variabletest](https://raw.githubusercontent.com/dandaneee/html5/3d7c1b397c08262e331b6c904d013cbbd4fe9190/variabletest.JPG)
 
 >alert(i); //팝업창 출력 - 모달 
 >
->![image-20210823214859498](../../../../../Documents/md_images/image-20210823214859498-16298079855971.png)
+>![image-20210823214859498](https://raw.githubusercontent.com/dandaneee/html5/3d7c1b397c08262e331b6c904d013cbbd4fe9190/image-20210823214859498.png)
 >
 >console.log(i);  // 화면에 i 출력
 >
@@ -120,15 +120,15 @@ else{ // input < 80 , input2 =false ,
 
 
 
-![ifelse_t](../../../../../Documents/md_images/ifelse_t.JPG)
+![ifelse_t](https://raw.githubusercontent.com/dandaneee/html5/3d7c1b397c08262e331b6c904d013cbbd4fe9190/ifelse_t.JPG)
 
 >var input = prompt("입력하세요"); // 출력 요구창이 뜸
 >
->![image-20210823215525529](../../../../../Documents/md_images/image-20210823215525529-16298080076272.png)
+>![image-20210823215525529](https://raw.githubusercontent.com/dandaneee/html5/3d7c1b397c08262e331b6c904d013cbbd4fe9190/image-20210823215525529.png)
 
 >var input2 = confirm("진짜 삭제할래?");
 >
->![image-20210823215608671](../../../../../Documents/md_images/image-20210823215608671-16298080146093.png)
+>![image-20210823215608671](https://raw.githubusercontent.com/dandaneee/html5/3d7c1b397c08262e331b6c904d013cbbd4fe9190/image-20210823215608671.png)
 
 
 
@@ -195,7 +195,7 @@ if(op =="+"){
 
 
 
-![cal_t](../../../../../Documents/md_images/cal_t.JPG)
+![cal_t](https://raw.githubusercontent.com/dandaneee/html5/3d7c1b397c08262e331b6c904d013cbbd4fe9190/cal_t.JPG)
 
 > * 최초에 prompt로 입력시, String 값이므로 parseInt 를 사용해 Int값으로 변환시켜야 한다.
 > * java와 똑같이 if else 구문 사용 가능
@@ -238,7 +238,7 @@ document.write("<h3>반복문없이 배열 조회=" + a1.join(',') + "</h3>") ; 
 
 
 
-![fortest](../../../../../Documents/md_images/fortest.JPG)
+![fortest](https://raw.githubusercontent.com/dandaneee/html5/3d7c1b397c08262e331b6c904d013cbbd4fe9190/fortest.JPG)
 
 > * join쓰면 반복문없이 출력됨  
 >
